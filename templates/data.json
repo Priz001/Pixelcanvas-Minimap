@@ -481,5 +481,19 @@
     "y": -2231,
     "width": 47,
     "height": 21
+   },
+  "IbrahimYazici": {
+    "name": "ibrahimyazıcı.png",
+    "x": 26,
+    "y": -1466,
+    "width": 124,
+    "height": 42
+   },
+  "BursaTeam": {
+    "name": "bursateam.png",
+    "x": -307,
+    "y": -1711,
+    "width": 102,
+    "height": 185
    }
 }
