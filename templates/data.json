@@ -495,5 +495,12 @@
     "y": -1711,
     "width": 102,
     "height": 185
+   },
+  "AtaturkBayrak": {
+   "name": "ata.png",
+   "x": 1023,
+   "y": -1720,
+   "width": 185,
+   "height": 204,
    }
 }
