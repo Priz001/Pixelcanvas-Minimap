@@ -516,5 +516,12 @@
    "y": -27498,
    "width": 90,
    "height": 155
+   },
+  "FatihTerim": {
+   "name": "fatih.png",
+   "x": -649,
+   "y": -1800,
+   "width": 109,
+   "height": 79
    }
 }
