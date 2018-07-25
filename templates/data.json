@@ -523,5 +523,19 @@
    "y": -791,
    "width": 113,
    "height": 368
+   },
+  "TRveTuran_dc_linki": {
+   "name": "dcturan.png",
+   "x": 1023,
+   "y": -1892,
+   "width": 185,
+   "height": 54
+   },
+  "OsmanBatur": {
+   "name": "osman.png",
+   "x": 1023,
+   "y": -1775,
+   "width": 98,
+   "height": 116
    }
 }
