@@ -565,5 +565,12 @@
    "y": -3533,
    "width": 75,
    "height": 75
+   },
+  "FactionBoard": {
+   "name": "orta.png",
+   "x": 20,
+   "y": -509,
+   "width": 387,
+   "height": 75
    }
 }
