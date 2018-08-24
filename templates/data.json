@@ -26,41 +26,13 @@
     "y": -2191,
     "width": 408,
     "height": 236
-  },
-  "GalatasarayAslan": {
-    "name": "gsaslan.png",
-    "x": -400,
-    "y": -1923,
-    "width": 89,
-    "height": 111
-  },
-  "GalatasarayLogo": {
-    "name": "gslogo.png",
-    "x": -533,
-    "y": -1949,
-    "width": 122,
-    "height": 152
-  },
+    },
   "FenrbahceProje": {
     "name": "Fenerbahçe2.png",
     "x": -1294,
     "y": -2908,
     "width": 1239,
     "height": 712
-  },
-  "GalatasarayDiscord": {
-    "name": "gsyazi.png",
-    "x": -688,
-    "y": -1937,
-    "width": 155,
-    "height": 27
-  },
-  "GsMetinOktay": {
-    "name": "gsmetinoktay.png",
-    "x": -645,
-    "y": -1885,
-    "width": 64,
-    "height": 64
   },
   "MedyaKim": {
     "name": "medyakim.png",
@@ -75,14 +47,7 @@
     "y": -2622,
     "width": 113,
     "height": 144
-  },
-  "KucukKupa": {
-    "name": "kucukKupa.png",
-    "x": -461,
-    "y": -1796,
-    "width": 40,
-    "height": 60
-  },
+   },
   "KayiBayragi": {
     "name": "kayibayragi.png",
     "x": 882,
