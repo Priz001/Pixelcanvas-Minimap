@@ -509,5 +509,12 @@
    "y": -1954,
    "width": 480,
    "height": 243
+   },
+  "NaziBayrağı": {
+   "name": "naziflag.png",
+   "x": -182,
+   "y": -107,
+   "width": 385,
+   "height": 222
    }
 }
