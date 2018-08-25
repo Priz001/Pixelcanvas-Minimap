@@ -292,14 +292,7 @@
     "y": -97,
     "width": 40,
     "height": 15
-   },
-  "Asker_mpt-76": {
-    "name": "asker.png",
-    "x": -226,
-    "y": -245,
-    "width": 85,
-    "height": 54
-     },
+        },
   "Deadpool_Proje": {
     "name": "deadpool.png",
     "x": 36,
@@ -509,5 +502,12 @@
    "y": -107,
    "width": 385,
    "height": 222
+   },
+  "NaziYanıNikolasCruz": {
+   "name": "cruz.png",
+   "x": 196,
+   "y": -15,
+   "width": 381,
+   "height": 377
    }
 }
