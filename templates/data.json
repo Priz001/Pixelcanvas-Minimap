@@ -496,20 +496,6 @@
    "width": 480,
    "height": 243
    },
-  "NaziBayrağı": {
-   "name": "naziflag.png",
-   "x": -182,
-   "y": -107,
-   "width": 385,
-   "height": 222
-   },
-  "NaziYanıNikolasCruz": {
-   "name": "cruz.png",
-   "x": 196,
-   "y": -15,
-   "width": 381,
-   "height": 377
-   },
   "NaziCanvasBölgesi": {
    "name": "nazicanvas.png",
    "x": -855,
