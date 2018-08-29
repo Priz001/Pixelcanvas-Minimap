@@ -523,5 +523,12 @@
    "y": -304,
    "width": 196,
    "height": 196
+   },
+  "MerkezAtatürk": {
+   "name": "ataturk.png",
+   "x": -720,
+   "y": -120,
+   "width": 218,
+   "height": 218
    }
 }
