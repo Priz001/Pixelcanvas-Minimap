@@ -544,5 +544,19 @@
   "y": -15,
   "width": 121,
   "height": 148
+  },
+ "NaziKucukNaziler": {
+  "name": "swasss2.png",
+  "x": 82,
+  "y": 112,
+  "width": 252,
+  "height": 84
+  },
+ "MoonManvePepeArtı": {
+  "name": "pepe2.png",
+  "x": -410,
+  "y": -109,
+  "width": 229,
+  "height": 210
   }
 }
