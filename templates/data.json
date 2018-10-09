@@ -565,5 +565,12 @@
   "y": -303,
   "width": 141,
   "height": 159
+  },
+ "NaziFourthReich": {
+  "name": "nazifourthreich.png",
+  "x": -470,
+  "y": -303,
+  "width": 143,
+  "height": 159
   }
 }
