@@ -575,8 +575,8 @@
   },
  "GSOrtaProjesi": {
   "name": "ortaGS.png",
-  "x": 765,
-  "y": -69,
+  "x": -765,
+  "y": 69,
   "width": 92,
   "height": 53
   }
