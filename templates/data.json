@@ -572,5 +572,12 @@
   "y": -303,
   "width": 143,
   "height": 159
+  },
+ "GSOrtaProjesi": {
+  "name": "ortaGS.png",
+  "x": 765,
+  "y": -69,
+  "width": 92,
+  "height": 53
   }
 }
