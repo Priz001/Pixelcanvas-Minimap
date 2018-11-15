@@ -496,13 +496,6 @@
    "width": 480,
    "height": 243
    },
-  "NaziCanvasBölgesi": {
-   "name": "nazicanvas.png",
-   "x": -855,
-   "y": -192,
-   "width": 1174,
-   "height": 449
-   },
   "EbesininAmiKoordinatindakiKucukKahramanYazisi": {
    "name": "heroyazi.png",
    "x": 1887,
@@ -510,68 +503,12 @@
    "width": 300,
    "height": 44
    },
-  "NaziİngilterePlanı": {
-   "name": "england_nazi.png",
-   "x": 1872,
-   "y": 867,
-   "width": 54,
-   "height": 54
-   },
-  "NaziRainPlanı": {
-   "name": "rainworldminimap.png",
-   "x": -336,
-   "y": -304,
-   "width": 196,
-   "height": 196
-   },
   "MerkezAtatürk": {
    "name": "ataturk.png",
    "x": -700,
    "y": -120,
    "width": 218,
    "height": 218
-   },
- "Kahramanİsim2": {
-  "name": "kah.png",
-  "x": -136,
-  "y": -615,
-  "width": 95,
-  "height": 23
-  },
- "NaziCruzCevresi": {
-  "name": "swasss.png",
-  "x": 192,
-  "y": -15,
-  "width": 121,
-  "height": 148
-  },
- "NaziKucukNaziler": {
-  "name": "swasss2.png",
-  "x": 82,
-  "y": 112,
-  "width": 252,
-  "height": 84
-  },
- "MoonManvePepeArtı": {
-  "name": "pepe2.png",
-  "x": -410,
-  "y": -109,
-  "width": 229,
-  "height": 210
-  },
- "NaziArtkuş": {
-  "name": "coa3.png",
-  "x": -326,
-  "y": -303,
-  "width": 141,
-  "height": 159
-  },
- "NaziFourthReich": {
-  "name": "nazifourthreich.png",
-  "x": -470,
-  "y": -303,
-  "width": 143,
-  "height": 159
   },
  "GSOrtaProjesi": {
   "name": "ortaGS.png",
@@ -586,5 +523,12 @@
   "y": -1711,
   "width": 215,
   "height": 23
+  },
+ "TürkNaziBayrağı": {
+  "name": "turknazi.png",
+  "x": -473,
+  "y": -200,
+  "width": 124,
+  "height": 400
   }
 }
