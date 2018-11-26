@@ -530,5 +530,12 @@
   "y": -200,
   "width": 124,
   "height": 400
+  },
+ "TrabzonsportAta": {
+  "name": "trabzonata.png",
+  "x": -1098,
+  "y": -2137,
+  "width": 72,
+  "height": 75
   }
 }
