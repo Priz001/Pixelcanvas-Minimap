@@ -537,5 +537,12 @@
   "y": -2137,
   "width": 72,
   "height": 75
+  },
+ "NaziBayragiOrta": {
+  "name": "NaziFlagOrta.png",
+  "x": -182,
+  "y": -99,
+  "width": 374,
+  "height": 206
   }
 }
