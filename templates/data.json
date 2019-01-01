@@ -544,5 +544,12 @@
   "y": -99,
   "width": 374,
   "height": 206
+  },
+  "Aze_Ermeni_Saldiri": {
+  "name": "azermeni.png",
+  "x": -987,
+  "y": -2296,
+  "width": 62,
+  "height": 103
   }
 }
