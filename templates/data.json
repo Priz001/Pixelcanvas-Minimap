@@ -545,11 +545,11 @@
   "width": 374,
   "height": 206
   },
-  "Aze_Ermeni_Saldiri": {
-  "name": "azermeni.png",
-  "x": -987,
-  "y": -2296,
-  "width": 62,
-  "height": 103
+    "GS_FB_BJK": {
+  "name": "GSFBBJK.png",
+  "x": -66,
+  "y": -433,
+  "width": 318,
+  "height": 172
   }
 }
