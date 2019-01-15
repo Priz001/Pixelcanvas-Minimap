@@ -516,5 +516,12 @@
   "y": -433,
   "width": 318,
   "height": 172
+  },
+    "Turan_Orta": {
+  "name": "turan.png",
+  "x": -174,
+  "y": -433,
+  "width": 108,
+  "height": 172
   }
 }
