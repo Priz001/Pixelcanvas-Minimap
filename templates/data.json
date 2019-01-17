@@ -523,5 +523,12 @@
   "y": -433,
   "width": 108,
   "height": 172
+   },
+    "Osmanli_Tugrasi_Orta": {
+  "name": "osmanli_tugrasi.png",
+  "x": 66,
+  "y": -712,
+  "width": 207,
+  "height": 250
   }
 }
