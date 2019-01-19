@@ -510,25 +510,11 @@
   "width": 72,
   "height": 75
   },
-    "GS_FB_BJK": {
-  "name": "GSFBBJK.png",
-  "x": -66,
-  "y": -433,
-  "width": 318,
-  "height": 172
-  },
-    "Turan_Orta": {
-  "name": "turan.png",
-  "x": -174,
-  "y": -433,
-  "width": 108,
-  "height": 172
-   },
-    "Osmanli_Tugrasi_Orta": {
-  "name": "osmanli_tugrasi.png",
-  "x": 66,
-  "y": -721,
-  "width": 207,
-  "height": 250
+    "OrtaProje": {
+  "name": "OrtaProje.png",
+  "x": -191,
+  "y": -601,
+  "width": 460,
+  "height": 357
   }
 }
