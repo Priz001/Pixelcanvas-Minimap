@@ -516,5 +516,12 @@
   "y": -601,
   "width": 460,
   "height": 357
+  },
+    "TuranBayrakUzaktaki": {
+  "name": "turanbayrak.png",
+  "x": -8000,
+  "y": -3800,
+  "width": 225,
+  "height": 225
   }
 }
