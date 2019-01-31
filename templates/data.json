@@ -517,11 +517,11 @@
   "width": 460,
   "height": 357
   },
-    "TuranBayrakUzaktaki": {
-  "name": "turanbayrak.png",
-  "x": -8000,
-  "y": -3800,
-  "width": 225,
-  "height": 225
+    "PixelTuranArtıUzak": {
+  "name": "pixelturanart.png",
+  "x": -8445,
+  "y": -3839,
+  "width": 750,
+  "height": 397
   }
 }
