@@ -524,11 +524,18 @@
   "width": 460,
   "height": 357
   },
-    "AzeVeCevreArtlar": {
+    "AzeSeritVeCevreArtlar": {
   "name": "aze_cevresi_-989_-2673.png",
   "x": -989,
   "y": -2673,
   "width": 1155,
   "height": 499
+  },
+    "AzeVe15Temmuz": {
+  "name": "Aze_ve_15Temmuz_-942_-2196.png",
+  "x": 942,
+  "y": -2196,
+  "width": 737,
+  "height": 249
   }
 }
